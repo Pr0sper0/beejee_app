@@ -3,7 +3,7 @@ Task contains:
 - е-mail;
 - task description;
 
-The start page is a list of tasks with the possibility of sorting by ID, username, e-mail and status. Sorting could be ascendant and descendant
+The start page is a list of tasks with the possibility of sorting by ID, username, e-mail and status. Sorting could be ascendant and descendant.
 Task output - page with 3 tasks (with pagination). 
 
 Remark: Sorting happens only for current(3) tasks, implementation could be different(sorting for all tasks) but may be not appropriate for big data.
